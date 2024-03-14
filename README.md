@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-[![Luis Badalo's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuisBadal0)](https://github.com/anuraghazra/github-readme-stats)
+[![Luis Badalo's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuisBadal0&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **LuisBadal0/LuisBadal0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
