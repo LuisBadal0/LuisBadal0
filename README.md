@@ -1,9 +1,12 @@
 ![](https://komarev.com/ghpvc/?username=luisbadal0&color=006bed)
 
+# Luís Badalo
+**DevOps Engineer | Cloud & API Integration | Azure • Kubernetes • Mulesoft**
 ## About Me
 
-- 🤔 Always exploring new tecnologies and developing software solutions.
-- 🌱 Knowing the know hows about **Devops**.
+🤔 Always exploring new technologies and building scalable solutions  
+🌱 Deepening expertise in Infrastructure as Code and cloud-native architectures
+
 
 ## Skills
 
@@ -34,10 +37,11 @@
 <br/>
 
 [![Luis Badalo's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuisBadal0&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luisbadal0&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Where to find me
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/luis-badalo/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-badalo/)
 
 
 
