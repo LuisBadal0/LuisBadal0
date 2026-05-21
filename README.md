@@ -46,10 +46,6 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 
-## 🏆 Highlights
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=luisbadal0&theme=tokyonight&column=3&margin-w=12&margin-h=12)](https://github.com/ryo-ma/github-profile-trophy)
-
 ## 📫 Find Me
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-badalo/)
